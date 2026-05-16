@@ -1,0 +1,18 @@
+#対象ニュース一覧
+
+- TechCrunch
+- ギズモード・ジャパン
+- Menthas
+- Publickey
+- CNET Japan
+- OpenAI News
+- Amazon Science Blog
+- Netflix TechBlog
+- Google for Developers
+- CyberAgent Developers Blog
+- LINEヤフー Tech blog
+- mercari engineering
+- マイナビエンジニアブログ
+- gihyo.jp
+- ZDNET Japan
+- ITmedia
