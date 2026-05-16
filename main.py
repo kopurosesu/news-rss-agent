@@ -35,19 +35,21 @@ def main():
                     "site": feed.feed.get("title", "Unknown")
                 })
 
+    markdown_text = "# 今日更新されたニュース一覧\n\n"
+
     if not today_articles:
-        print("今日更新された記事は見つかりませんでした。")
-        return
+        markdown_text += "今日更新された記事は見つかりませんでした。\n"
+    else:
+        for i, article in enumerate(today_articles, start=1):
+            markdown_text += f"## {i}. {article['title']}\n\n"
+            markdown_text += f"- サイト: {article['site']}\n"
+            markdown_text += f"- 公開日時: {article['published']}\n"
+            markdown_text += f"- URL: {article['link']}\n\n"
 
-    print("今日更新された記事一覧")
-    print()
+    with open("today_news.md", "w", encoding="utf-8") as f:
+        f.write(markdown_text)
 
-    for i, article in enumerate(today_articles, start=1):
-        print(f"{i}. {article['title']}")
-        print(f"   サイト: {article['site']}")
-        print(f"   公開日時: {article['published']}")
-        print(f"   URL: {article['link']}")
-        print()
+    print("today_news.md に保存しました。")
 
 
 if __name__ == "__main__":
