@@ -1,176 +1,104 @@
 # 今日更新されたニュース一覧
 
-## 1. 【みんな仲良し】AndroidとiPhoneとのファイル共有、もっと手軽になるよ！
+## 1. ハンディファン否定派のわたしも、この夏はBRUNOに陥落しそう
 
 - サイト: ギズモード・ジャパン
-- 公開日時: Sat, 16 May 2026 15:00:00 +0900
-- URL: https://www.gizmodo.jp/2026/05/quick-share-airdrop-1.html
+- 公開日時: Sun, 17 May 2026 11:00:00 +0900
+- URL: https://www.gizmodo.jp/2026/05/amazon-bruno-5way-fan.html
 
-## 2. ChatGPT→Geminiに乗り換え。1カ月併用して「パーソナライズ情報」引き継ぎに成功した全記録
-
-- サイト: ギズモード・ジャパン
-- 公開日時: Sat, 16 May 2026 14:35:00 +0900
-- URL: https://www.gizmodo.jp/2026/05/chatgpt_gemini_lifehacker.html
-
-## 3. 「1ssi slim」で長財布の良さを再認識。カードの収納力もサイズ感も本当にちょうどいい
+## 2. 濡らしたくない充電器やコスメ、asoの「耐水小型ポーチ」に入れちゃってよ
 
 - サイト: ギズモード・ジャパン
-- 公開日時: Sat, 16 May 2026 13:55:00 +0900
-- URL: https://www.gizmodo.jp/2026/05/machi-ya-1ssislim-review-925269.html
+- 公開日時: Sun, 17 May 2026 10:55:00 +0900
+- URL: https://www.gizmodo.jp/2026/05/2605-amazon-aso-toftpouch-1-1.html
 
-## 4. 携帯性100点のスピーカーが登場。新製品でもAnkerは25％OFFで売る！
-
-- サイト: ギズモード・ジャパン
-- 公開日時: Sat, 16 May 2026 13:00:00 +0900
-- URL: https://www.gizmodo.jp/2026/05/anker-soundcore-boom-go-3i.html
-
-## 5. 少ない力で滑らかに動く。エルゴトロンのモニターアームはデスク作業の味方
+## 3. エナジャイザー、子どもが誤飲しても重大事故にならないボタン電池を開発
 
 - サイト: ギズモード・ジャパン
-- 公開日時: Sat, 16 May 2026 12:55:00 +0900
-- URL: https://www.gizmodo.jp/2026/05/2605-amazon-ergotron-monitorarm.html
+- 公開日時: Sun, 17 May 2026 10:00:00 +0900
+- URL: https://www.gizmodo.jp/2026/05/energizers-new-coin-batteries-prevent-fatal-burning-if-kids-swallow-them.html
 
-## 6. ThinkPadの操作性を他のPCにも。赤ポチを独立させた異色のマウス
-
-- サイト: ギズモード・ジャパン
-- 公開日時: Sat, 16 May 2026 12:00:00 +0900
-- URL: https://www.gizmodo.jp/2026/05/ploopy-bean-pointing-stick.html
-
-## 7. MADE IN JAPANの傑作。上下左右に開くスーツケースの便利さを再確認
+## 4. マーナのシートケースはワンタッチで開閉。指先が汚れてもOKだね
 
 - サイト: ギズモード・ジャパン
-- 公開日時: Sat, 16 May 2026 11:35:00 +0900
-- URL: https://www.gizmodo.jp/2026/05/proteca_360g4_suitcase-lec.html
+- 公開日時: Sun, 17 May 2026 09:55:00 +0900
+- URL: https://www.gizmodo.jp/2026/05/2605-amazon-marna-seat-case-1-1.html
 
-## 8. 「物理的に冷やす」最強のクールギア。魔法瓶氷のうで冷をモバイル
-
-- サイト: ギズモード・ジャパン
-- 公開日時: Sat, 16 May 2026 11:00:00 +0900
-- URL: https://www.gizmodo.jp/2026/05/amazon-ice-pack.html
-
-## 9. 硬い段ボールもベタつくテープも、この「チタン刃」ハサミに任せよう
+## 5. 夏ひんやり、冬ぽかぽか。「年中携帯スティック氷のう」出ました
 
 - サイト: ギズモード・ジャパン
-- 公開日時: Sat, 16 May 2026 10:55:00 +0900
-- URL: https://www.gizmodo.jp/2026/05/2605-amazon-plus-scissors-1-1.html
+- 公開日時: Sun, 17 May 2026 08:55:00 +0900
+- URL: https://www.gizmodo.jp/2026/05/amazon-motteru-icecoolstick.html
 
-## 10. たった10分AIを使うだけで、思考停止に陥る可能性
-
-- サイト: ギズモード・ジャパン
-- 公開日時: Sat, 16 May 2026 10:00:00 +0900
-- URL: https://www.gizmodo.jp/2026/05/spending-just-10-minutes-with-ai-can-fry-your-brain-researchers-find.html
-
-## 11. 「持ち運び＆指先フィット」欲張るなら、ロジクールの小型キーボードが最適解
+## 6. Apple Watch Ultra限定の文字盤、ノーマルApple Watch向けのシンプル版がwatchOS 27で追加されるかも
 
 - サイト: ギズモード・ジャパン
-- 公開日時: Sat, 16 May 2026 09:55:00 +0900
-- URL: https://www.gizmodo.jp/2026/05/2605-amazon-logicool-mx-keys-mini-1-1.html
+- 公開日時: Sun, 17 May 2026 08:00:00 +0900
+- URL: https://www.gizmodo.jp/2026/05/watchos-27-modular-ultra.html
 
-## 12. 次世代サムスンノートPCに搭載？ MacBook Neoのライバル「Aluminum OS」とは
-
-- サイト: ギズモード・ジャパン
-- 公開日時: Sat, 16 May 2026 09:00:00 +0900
-- URL: https://www.gizmodo.jp/2026/05/the-next-samsung-laptop-could-actually-make-chromebooks-exciting-for-once.html
-
-## 13. Toffyの新作真空断熱ボトル、「激軽165g」だからガンガン持ち歩いて
+## 7. デスクの充電問題、Ankerの「6台同時充電」電源タップでサクッと解決
 
 - サイト: ギズモード・ジャパン
-- 公開日時: Sat, 16 May 2026 08:55:00 +0900
-- URL: https://www.gizmodo.jp/2026/05/amazon-toffy-stainlessbottle.html
+- 公開日時: Sun, 17 May 2026 07:55:00 +0900
+- URL: https://www.gizmodo.jp/2026/05/2605-amazon-anker-521-power-strip.html
 
-## 14. 室温連動で「風」を変えて節電。このサーキュレーター賢いぞ…！
-
-- サイト: ギズモード・ジャパン
-- 公開日時: Sat, 16 May 2026 08:00:00 +0900
-- URL: https://www.gizmodo.jp/2026/05/woozoo-360-i.html
-
-## 15. DODのミニ財布、アレコレ入って「手ぶら」が捗るぞ
+## 8. Nintendo Switch 2とPS4の画質勝負。細部を比べたら大きな差が
 
 - サイト: ギズモード・ジャパン
-- 公開日時: Sat, 16 May 2026 07:55:00 +0900
-- URL: https://www.gizmodo.jp/2026/05/2606-amazon-dodwallet.html
+- 公開日時: Sun, 17 May 2026 07:30:00 +0900
+- URL: https://www.gizmodo.jp/2026/05/nintendo-switch-2-vs-ps4-image-quality-battle-zm4.html
 
-## 16. Googleマップ上に浮かぶ謎の「黒い三角形」。その正体が怖すぎた…
+## 9. 水を捨てずに有効活用。溶けた氷水をスプレー噴射でムダにしない氷のう
 
 - サイト: ギズモード・ジャパン
-- 公開日時: Sat, 16 May 2026 07:00:00 +0900
-- URL: https://www.gizmodo.jp/2026/05/google-maps-black-hole-in-the-pacific-ydu.html
+- 公開日時: Sun, 17 May 2026 07:00:00 +0900
+- URL: https://www.gizmodo.jp/2026/05/hieru-spray-ice-pack.html
 
-## 17. VMware離れでインフラ複雑化の恐れ　Gartnerが警鐘
+## 10. 駆け込み面接 - megamouthの葬列
 
 - サイト: Menthas #all
-- 公開日時: Sat, 16 May 2026 05:01:54 GMT
-- URL: https://www.digitaltoday.co.kr/jp/view/54785/leaving-vmware-could-mean-more-complex-and-costlier-infrastructure
+- 公開日時: Sun, 17 May 2026 02:02:49 GMT
+- URL: https://www.megamouth.info/entry/2026/05/12/215443
 
-## 18. ジェミニインテリジェンス、Galaxy Z Fold8/Flip8に先行搭載か - すまほん!!
-
-- サイト: Menthas #all
-- 公開日時: Sat, 16 May 2026 02:01:28 GMT
-- URL: https://smhn.info/202605-gemini-intelligence-galaxy-z-fold8-flip8-preinstalled
-
-## 19. I keep tripping over
+## 11. 20周年記念iPhone（2027）の次世代モデル（2028）、第2世代の曲面ディスプレイを搭載へ - こぼねみ
 
 - サイト: Menthas #all
-- 公開日時: Sat, 16 May 2026 01:02:00 GMT
-- URL: https://allthingssmitty.com/2026/05/11/i-keep-tripping-over-true-false-true/
+- 公開日時: Sun, 17 May 2026 01:03:05 GMT
+- URL: https://www.kobonemi.com/entry/2026/05/17/20th-Anniversary-iPhone-Curved-Display-Rumor
 
-## 20. iPhone 17 Pro、最速充電スマートフォンに　各社33製品をテスト - こぼねみ
-
-- サイト: Menthas #all
-- 公開日時: Sat, 16 May 2026 01:02:55 GMT
-- URL: https://www.kobonemi.com/entry/2026/05/16/iPhone-17-Pro-Fastest-Charging-Smartphone
-
-## 21. Veeam、AI時代に向けたデータ管理システムを発表　AIエージェントの暴走を防ぐ
+## 12. わずか10カ月で砂漠の砂を豊かな土壌に変えるプロセスが解明される
 
 - サイト: Menthas #all
-- 公開日時: Sat, 16 May 2026 00:04:13 GMT
-- URL: https://www.itmedia.co.jp/enterprise/articles/2605/16/news011.html
+- 公開日時: Sun, 17 May 2026 00:02:40 GMT
+- URL: https://gigazine.net/news/20260517-china-desert-soil-crust/
 
-## 22. VS Code 1.120リリース、Agentsウィンドウの安定版向けプレビューを開始
-
-- サイト: gihyo.jp
-- 公開日時: Sat, 16 May 2026 11:57:00 +0900
-- URL: https://gihyo.jp/article/2026/05/vscode-1.120?utm_source=feed
-
-## 23. 「涼宮ハルヒの憂鬱」の視聴順を巡る4chan匿名ユーザーの投稿→うっかり数学の未解決問題で歴史的発見　2021年に論文化
+## 13. OPPOから空冷ファン内蔵の「K15 Pro」登場　 IP69防水と静音性を両立、8000mAhの大容量バッテリーも魅力
 
 - サイト: ITmedia TOP STORIES 最新記事一覧
-- 公開日時: Sat, 16 May 2026 10:00:00 +0900
-- URL: https://www.itmedia.co.jp/news/articles/2605/16/news003.html
+- 公開日時: Sun, 17 May 2026 10:00:00 +0900
+- URL: https://www.itmedia.co.jp/mobile/articles/2605/17/news001.html
 
-## 24. OpenAI、「ChatGPT」に個人向け資産管理機能　金融口座と連携
-
-- サイト: ITmedia TOP STORIES 最新記事一覧
-- 公開日時: Sat, 16 May 2026 07:59:00 +0900
-- URL: https://www.itmedia.co.jp/news/articles/2605/16/news027.html
-
-## 25. AIを導入しても、なぜ格差は広がるのか　7割の企業が感じる「使える人」との差
+## 14. 「お疲れさまです」はいらない？　ビジネスチャットで“嫌われる“かもしれない振る舞い7選
 
 - サイト: ITmedia TOP STORIES 最新記事一覧
-- 公開日時: Sat, 16 May 2026 08:00:00 +0900
-- URL: https://www.itmedia.co.jp/business/articles/2605/16/news002.html
+- 公開日時: Sun, 17 May 2026 08:00:00 +0900
+- URL: https://www.itmedia.co.jp/mobile/articles/2605/17/news002.html
 
-## 26. 「あんた、やるかい？」　看板商品のレシピなし、機械は老朽化……75年続く「喫茶店」の事業承継
-
-- サイト: ITmedia TOP STORIES 最新記事一覧
-- 公開日時: Sat, 16 May 2026 07:30:00 +0900
-- URL: https://www.itmedia.co.jp/business/articles/2605/16/news001.html
-
-## 27. 8TB SSDがまさかの50万円超え!?　連休明けのアキバで目立つストレージ高騰と注目の特価マザー
+## 15. 開業初年度は1億円赤字　奄美のホテルが“癒し路線”で再生したワケ
 
 - サイト: ITmedia TOP STORIES 最新記事一覧
-- 公開日時: Sat, 16 May 2026 06:00:00 +0900
-- URL: https://www.itmedia.co.jp/pcuser/articles/2605/16/news021.html
+- 公開日時: Sun, 17 May 2026 08:00:00 +0900
+- URL: https://www.itmedia.co.jp/business/articles/2605/17/news004.html
 
-## 28. ソニーが「Xperia 1 VIII」で方針転換を図った理由　一般層に間口を広げるも、23万円超の価格がネックに
-
-- サイト: ITmedia TOP STORIES 最新記事一覧
-- 公開日時: Sat, 16 May 2026 06:00:00 +0900
-- URL: https://www.itmedia.co.jp/mobile/articles/2605/16/news025.html
-
-## 29. コンビニで広がる「朝セール」　朝5～11時の利用客取り込み、狙いは？
+## 16. 「Switch 2」値上げ！　持っている人も今のうちにやっておきたいことをゲーム好きマンガ家が解説
 
 - サイト: ITmedia TOP STORIES 最新記事一覧
-- 公開日時: Sat, 16 May 2026 05:00:00 +0900
-- URL: https://www.itmedia.co.jp/business/articles/2605/16/news009.html
+- 公開日時: Sun, 17 May 2026 07:14:00 +0900
+- URL: https://www.itmedia.co.jp/news/articles/2605/17/news015.html
+
+## 17. IntelとAppleがチップ製造で暫定合意か／Microsoft製品の「Copilot」アイコンがフローティング表示に共通化
+
+- サイト: ITmedia TOP STORIES 最新記事一覧
+- 公開日時: Sun, 17 May 2026 06:00:00 +0900
+- URL: https://www.itmedia.co.jp/pcuser/articles/2605/17/news014.html
 
